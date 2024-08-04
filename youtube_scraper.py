@@ -9,7 +9,7 @@ import logging
 import os
 
 # YouTube API key
-api_key = 'AIzaSyBS89pRmCmAgXr3czm8aWhJy9r6ZKzfRC8'
+api_key = 'YT API KEY'
 youtube = build('youtube', 'v3', developerKey=api_key, cache_discovery=False)
 
 # Set up logging
